@@ -1,4 +1,4 @@
-# electron-quick-start
+# Application de test sur electron
 
 **Clone and run for a quick way to see Electron in action.**
 
